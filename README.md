@@ -43,14 +43,14 @@ Faça um clone desse repositório
 
   ### Backend
   1. A partir da raiz do projeto, entre na pasta rodando `cd backend`;
-  2. Execulte `npm install` ou `yarn` para instalar as dependências;
-  2. Execulte `node ./init.js` para preencher as variáveis de ambiente;
-  3. Execulte `docker-compose up` para iniciar o servidor backend com todos os bancos de bados;
+  2. Execute `npm install` ou `yarn` para instalar as dependências;
+  2. Execute `node ./init.js` para preencher as variáveis de ambiente;
+  3. Execute `docker-compose up` para iniciar o servidor backend com todos os bancos de bados;
   
   ### Frontend
   1. A partir da raiz do projeto, entre na pasta rodando `cd frontend`;
-  2. Execulte `npm install` para instalar as dependências;
-  3. Execulte `npm run start` para iniciar o servidor de desenvolvimento;
+  2. Execute `npm install` para instalar as dependências;
+  3. Execute `npm run start` para iniciar o servidor de desenvolvimento;
   4. Abra `http://localhost:3000` para ver o projeto no navegador.
 
   ### Mobile
